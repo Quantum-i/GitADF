@@ -1,0 +1,26 @@
+{
+	"name": "pipeline1_copy1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait10",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			},
+			{
+				"name": "Wait11",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 15
+				}
+			}
+		],
+		"annotations": []
+	}
+}
