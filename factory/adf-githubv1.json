@@ -1,0 +1,9 @@
+{
+	"name": "adf-githubv1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9772498-72f8-4626-a09e-c905753621f6",
+		"tenantId": "cdc58963-66de-4601-a264-951b6ee79215"
+	}
+}
